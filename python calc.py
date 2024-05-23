@@ -60,5 +60,5 @@ if __name__ == "__main__":
 ## Catches any other exceptions that might occur during the execution of the program.
 ## Prints the result of the arithmetic operation or an error message if an exception is caught.
 
-## (4) . The script checks if __name__ is equal to "__main__", which is true if the script is run directly. 
+## (4). The script checks if __name__ is equal to "__main__", which is true if the script is run directly. 
 ## If this condition is met, it calls the main() function to start the execution of the program.
